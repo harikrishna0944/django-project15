@@ -1,0 +1,18 @@
+body
+{
+    background:lightgoldenrodyellow url("../../../app/static/images/dhoni.jpg") no-repeat;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+h1
+{
+    color: blueviolet;
+    
+}
+img
+{
+    border-radius: 30px;
+    margin: 10px;
+}
